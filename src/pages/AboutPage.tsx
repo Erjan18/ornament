@@ -33,7 +33,7 @@ export default function AboutPage() {
           </div>
           <div className="rounded-2xl overflow-hidden shadow-lg">
             <img
-              src="https://images.pexels.com/photos/6585017/pexels-photo-6585017.jpeg"
+              src="https://st5.depositphotos.com/52892780/62470/v/450/depositphotos_624703534-stock-illustration-vector-red-kazakh-ornament-shanyrak.jpg"
               alt="Кыргызские ковры"
               className="w-full h-full object-cover"
             />
